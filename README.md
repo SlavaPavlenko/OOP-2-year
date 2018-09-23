@@ -1,1 +1,1 @@
-# OOP-2-year
+# Object-Oriented Programming labs in SSAU
